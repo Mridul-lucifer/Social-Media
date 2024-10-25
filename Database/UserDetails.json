@@ -1,0 +1,29 @@
+[
+  {
+    "Id": 1,
+    "Name": "Person1",
+    "Email": "Person1@gmail.com",
+    "Phone": "9876543210",
+    "Password": "$2a$08$RfVpHiGur6IgA0pnFuMPl.Ty7zteCuQL0xI1gcuTc2pm8MJf7/JCG",
+    "isPrivate": 0,
+    "Role": "Registered"
+  },
+  {
+    "Id": 2,
+    "Name": "Person2",
+    "Email": "Person2@gmail.com",
+    "Phone": "9876543200",
+    "Password": "$2a$08$K7/T1kieB0fUYALfuLtZLeJsjaDz9tJHl2g4SQ1w/y4dnSgpZJ5LC",
+    "isPrivate": 1,
+    "Role": "Registered"
+  },
+  {
+    "Id": 3,
+    "Name": "Person3",
+    "Email": "Person3@gmail.com",
+    "Phone": "9876543000",
+    "Password": "$2a$08$Z5UQCR2cXeovyk.vdw020uwYKd12yReIQfptmEJshnG89.i4F.4ZS",
+    "isPrivate": 1,
+    "Role": "Registered"
+  }
+]
